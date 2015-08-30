@@ -4,7 +4,7 @@ title: My First Ad Post!
 permalink: /my-first-ad-post/
 ---
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+
 
 
 
