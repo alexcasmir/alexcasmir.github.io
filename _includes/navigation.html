@@ -1,0 +1,7 @@
+<nav>
+  {% for page in site.pages %}
+    {% if page.hide == null %}
+    <a href="{{ page.url }}">{{ page.title }}</a>
+    {% endif %}
+  {% endfor %}
+</nav>
