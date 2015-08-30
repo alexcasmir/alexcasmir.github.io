@@ -1,6 +1,6 @@
 <nav>
   {% for page in site.pages %}
-    {% if page.url == {{ site.baseurl }}/404.html %}
+    {% if page.url == "{{ sifte.baseurl }}/404.html" %}
     page.hide = 'true'
     {% endif %}
 
