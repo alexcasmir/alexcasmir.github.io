@@ -1,5 +1,9 @@
 <nav>
   {% for page in site.pages %}
+    {% if page.url == {{ site.baseurl }}/404.html %}
+    page.hide = 'true'
+    {% endif %}
+
     {% if page.hide == null %}
     <a href="{{ page.url }}">{{ page.title }}</a>
     {% endif %}
