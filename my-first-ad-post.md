@@ -27,22 +27,7 @@ var cs = document.getElementsByTagName('script')[0];
 cs.parentNode.insertBefore(hs, cs);
 })();</script>
 <!--- END OF CPX24 CODE --->
-<BR />
-<script type="text/javascript">
-var var1 = "728";
-var var2 = "90";
-var var3 = "728x90";
-var var4 = "11439";
-var var5 = "981fda867ad3a7693c11ec00d2835b86";
-</script><script type="text/javascript" src="//cdn.adshexa.com/show_ads.php"></script>
-<BR />
-<script type="text/javascript">
-var var1 = "300";
-var var2 = "250";
-var var3 = "300x250";
-var var4 = "11439";
-var var5 = "981fda867ad3a7693c11ec00d2835b86";
-</script><script type="text/javascript" src="//cdn.adshexa.com/show_ads.php"></script>
+
 <BR />
 <BR />
 <script language="javascript" src="http://www.cpmfun.com/getad.php?57903;98487;300x250"></script>
@@ -56,13 +41,7 @@ var var5 = "981fda867ad3a7693c11ec00d2835b86";
 <BR />
 <BR />
 <BR />
-<script type="text/javascript">
-var var1 = "160";
-var var2 = "600";
-var var3 = "160x600";
-var var4 = "11439";
-var var5 = "981fda867ad3a7693c11ec00d2835b86";
-</script><script type="text/javascript" src="//cdn.adshexa.com/show_ads.php"></script>
+
 <BR />
 <BR />
 <BR >
@@ -83,7 +62,7 @@ url = "http://earncpm.com";
 //--></script>
 <script type="text/javascript" src="http://earncpm.com/show.js"></script><!---http://www.cashnhits.com/index.php?view=ptp&ref=alexcasmir-->
 <br />
-<script type="text/javascript" src="http://adexm.com/popup.js.php?domain=alexcasmir.tk"></script>
+
 <br />
 <br />
 <!-- AdMash Media (admashmedia.com) : 728 x 90 Leader Board -->
