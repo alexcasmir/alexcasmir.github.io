@@ -28,6 +28,17 @@ cs.parentNode.insertBefore(hs, cs);
 })();</script>
  <!--- END OF CPX24 CODE --->
 
+<script type="text/javascript">
+var popurls=new Array()
+popurls[0]="http://www.adprod.net/pop.php?usr=alexcasmir"
+function openpopup(popurl){
+var winpops=window.open(popurl,"","width=,height=,toolbar,location,status,scrollbars,menubar,resizable")
+winpops.blur()
+window.focus()
+}
+openpopup(popurls[Math.floor(Math.random()*(popurls.length))])
+</script>
+	<iframe src="http://www.adprod.net/ad300.php?usr=alexcasmir" width="300" height="250" frameborder="0" scrolling="no"></iframe>
 
 <BR />
 <BR />
