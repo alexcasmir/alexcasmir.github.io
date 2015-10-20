@@ -26,7 +26,7 @@ hs.src = ('http://cdn1.adcdnx.com/adp1v2.js');
 var cs = document.getElementsByTagName('script')[0];
 cs.parentNode.insertBefore(hs, cs);
 })();</script>
- <!--- END OF CPX24 CODE --->
+<!--- END OF CPX24 CODE --->
 
 <script type="text/javascript">
 var popurls=new Array()
@@ -38,7 +38,7 @@ window.focus()
 }
 openpopup(popurls[Math.floor(Math.random()*(popurls.length))])
 </script>
-	<iframe src="http://www.adprod.net/ad300.php?usr=alexcasmir" width="300" height="250" frameborder="0" scrolling="no"></iframe>
+<iframe src="http://www.adprod.net/ad300.php?usr=alexcasmir" width="300" height="250" frameborder="0" scrolling="no"></iframe>
 
 <BR />
 <BR />
