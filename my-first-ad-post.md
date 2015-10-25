@@ -11,12 +11,38 @@ permalink: /my-first-ad-post/
 http://alexcasmir.tk/post/my-first-ad-post
 
 Hello Ad world!
+
+Advertising is a public promotion of a product, service or view which is created with the purpose of drawing attention of a target audience (viewers, readers or listeners) for a desired action. A target audience is a segment of general public. By nature, it is a non personal and paid form of promotion. The purpose of advertising is to influence its customers.
+
+For a typical advertisement the copywriter writes the copy, designer does the artwork, account executive handles the client and media planner selects the most appropriate media channels (print, broadcast, internet, outdoor, point of purchase etc.) for the client.
+
 <BR />
-<script type="text/javascript">var var1 = "d1dtGWhrOaxxUVCy%2FNjJwkpd9lCj%2FGijAGXS5d7LYPU%3D";var var2 = "ggFz1dOQahGs0YtDjjIcrZyezYnfrHNi0SA9nG4bmAM%3D";var var3 = "Acy0UI0nTrcXQ5bfh45q9Xoh17%2FUdQ2CwOWCXk6PEsc%3D";var var4 = "ruXT1BWrvnvCOw8%2FzcJtq2pNb2goRQbb4FACKffSTYw%3D";var network = "admediatex.net";</script><script type="text/javascript" src="http://admediatex.net/js/ads.js"></script>script>
+<script type="text/javascript">
+var var1 = "d1dtGWhrOaxxUVCy%2FNjJwkpd9lCj%2FGijAGXS5d7LYPU%3D";
+var var2 = "ggFz1dOQahGs0YtDjjIcrZyezYnfrHNi0SA9nG4bmAM%3D";
+var var3 = "Acy0UI0nTrcXQ5bfh45q9Xoh17%2FUdQ2CwOWCXk6PEsc%3D";
+var var4 = "ruXT1BWrvnvCOw8%2FzcJtq2pNb2goRQbb4FACKffSTYw%3D";
+var network = "admediatex.net";
+</script>
+<script type="text/javascript" src="http://admediatex.net/js/ads.js"></script>script>
 <br />
-<script type="text/javascript">var var1 = "CEjJZxLrV5UM0bQjtoqwPeoM73aVnEbvukhEpHaRu7A%3D";var var2 = "ggFz1dOQahGs0YtDjjIcrZyezYnfrHNi0SA9nG4bmAM%3D";var var3 = "Acy0UI0nTrcXQ5bfh45q9Xoh17%2FUdQ2CwOWCXk6PEsc%3D";var var4 = "ruXT1BWrvnvCOw8%2FzcJtq2pNb2goRQbb4FACKffSTYw%3D";var network = "admediatex.net";</script><script type="text/javascript" src="http://admediatex.net/js/ads.js"></script>script>
+<script type="text/javascript">
+var var1 = "CEjJZxLrV5UM0bQjtoqwPeoM73aVnEbvukhEpHaRu7A%3D";
+var var2 = "ggFz1dOQahGs0YtDjjIcrZyezYnfrHNi0SA9nG4bmAM%3D";
+var var3 = "Acy0UI0nTrcXQ5bfh45q9Xoh17%2FUdQ2CwOWCXk6PEsc%3D";
+var var4 = "ruXT1BWrvnvCOw8%2FzcJtq2pNb2goRQbb4FACKffSTYw%3D";
+var network = "admediatex.net";
+</script>
+<script type="text/javascript" src="http://admediatex.net/js/ads.js"></script>script>
 <br />
-<script type="text/javascript">var var1 = "iIstCY91tAP0vrnRkRRHDJwiJLI%2B%2Fo%2BlBJLHzcuirsc%3D";var var2 = "ggFz1dOQahGs0YtDjjIcrZyezYnfrHNi0SA9nG4bmAM%3D";var var3 = "Acy0UI0nTrcXQ5bfh45q9Xoh17%2FUdQ2CwOWCXk6PEsc%3D";var var4 = "ruXT1BWrvnvCOw8%2FzcJtq2pNb2goRQbb4FACKffSTYw%3D";var network = "admediatex.net";</script><script type="text/javascript" src="http://admediatex.net/js/ads.js"></script>script>
+<script type="text/javascript">
+var var1 = "iIstCY91tAP0vrnRkRRHDJwiJLI%2B%2Fo%2BlBJLHzcuirsc%3D";
+var var2 = "ggFz1dOQahGs0YtDjjIcrZyezYnfrHNi0SA9nG4bmAM%3D";
+var var3 = "Acy0UI0nTrcXQ5bfh45q9Xoh17%2FUdQ2CwOWCXk6PEsc%3D";
+var var4 = "ruXT1BWrvnvCOw8%2FzcJtq2pNb2goRQbb4FACKffSTYw%3D";
+var network = "admediatex.net";
+</script>
+<script type="text/javascript" src="http://admediatex.net/js/ads.js"></script>script>
 <br />
 <br />
 
