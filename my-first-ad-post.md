@@ -19,7 +19,7 @@ For a typical advertisement the copywriter writes the copy, designer does the ar
 <BR />
 <br />
 <script type="text/javascript">
-var var1 = "CEjJZxLrV5UM0bQjtoqwPeoM73aVnEbvukhEpHaRu7A%3D";
+var var1 = "d1dtGWhrOaxxUVCy%2FNjJwkpd9lCj%2FGijAGXS5d7LYPU%3D";
 var var2 = "ggFz1dOQahGs0YtDjjIcrZyezYnfrHNi0SA9nG4bmAM%3D";
 var var3 = "Acy0UI0nTrcXQ5bfh45q9Xoh17%2FUdQ2CwOWCXk6PEsc%3D";
 var var4 = "ruXT1BWrvnvCOw8%2FzcJtq2pNb2goRQbb4FACKffSTYw%3D";
@@ -104,76 +104,11 @@ url = "http://earncpm.com";
 
 <br />
 <br />
-<!-- AdMash Media (admashmedia.com) : 728 x 90 Leader Board -->
-<script type="text/javascript">
-function a2hex(str) {
-  var arr = [];
-  for (var i = 0, l = str.length; i < l; i ++) {
-    var hex = Number(str.charCodeAt(i)).toString(16);
-    arr.push(hex);
-  }
-  return arr.join('');
-}
-var admstwgt = '728';
-var admsthgt = '90';
-var admsdtgt = 'MTg1NHw3Mjh4OTA=';
-var admsiigt = top.document.location;
-var sdr = 10000000 + Math.floor(Math.random() * 89999999);
-var srv = ['http://atlantic274.serverprofi24.eu' , 'http://billboardinteractive.codes' , 'http://billboardinteractive.io' , 'http://billboardinteractive.market' , 'http://arpmacsadvsrv.com' , 'http://socialmediabannerssrv.com' , 'http://webtoolsbannermedia.com' , 'http://gamemediaserve.com' , 'http://digitalmediaserving.com' , 'http://onlinegamemediasrv.com' , 'http://productmediasrv.com' , 'http://whitelabelmediasrv.com' , 'http://sharemediabanserv.com' , 'http://onlinemediaserve.com' , 'http://webmastersmediasrv.com'];
-var ccu = srv[Math.floor(Math.random() * srv.length)];
-var e1ser = admsiigt.toString();
-var e2ser = a2hex(e1ser);
-document.write('<IFRAME FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=' + admstwgt + ' HEIGHT=' + admsthgt + ' SRC="' + ccu + '/____bannerservice/bannermedia.php?data=' + admsdtgt + '&bdref=' + e2ser + '&seed=' + sdr + '"></IFRAME>');
-</script>
-<!-- End of Ad Tag - AdMash Media -->
+
 <br />
 <br />
-<!-- AdMash Media (admashmedia.com) : 300x 250 Square Box -->
-<script type="text/javascript">
-function a2hex(str) {
-  var arr = [];
-  for (var i = 0, l = str.length; i < l; i ++) {
-    var hex = Number(str.charCodeAt(i)).toString(16);
-    arr.push(hex);
-  }
-  return arr.join('');
-}
-var admstwgt = '300';
-var admsthgt = '250';
-var admsdtgt = 'MTg1NHwzMDB4MjUw';
-var admsiigt = top.document.location;
-var sdr = 10000000 + Math.floor(Math.random() * 89999999);
-var srv = ['http://atlantic274.serverprofi24.eu' , 'http://billboardinteractive.codes' , 'http://billboardinteractive.io' , 'http://billboardinteractive.market' , 'http://arpmacsadvsrv.com' , 'http://socialmediabannerssrv.com' , 'http://webtoolsbannermedia.com' , 'http://gamemediaserve.com' , 'http://digitalmediaserving.com' , 'http://onlinegamemediasrv.com' , 'http://productmediasrv.com' , 'http://whitelabelmediasrv.com' , 'http://sharemediabanserv.com' , 'http://onlinemediaserve.com' , 'http://webmastersmediasrv.com'];
-var ccu = srv[Math.floor(Math.random() * srv.length)];
-var e1ser = admsiigt.toString();
-var e2ser = a2hex(e1ser);
-document.write('<IFRAME FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=' + admstwgt + ' HEIGHT=' + admsthgt + ' SRC="' + ccu + '/____bannerservice/bannermedia.php?data=' + admsdtgt + '&bdref=' + e2ser + '&seed=' + sdr + '"></IFRAME>');
-</script>
-<!-- End of Ad Tag - AdMash Media -->                          
 <br />
 <br />
-<!-- AdMash Media (admashmedia.com) : 160 x 600 Wide Skysraper -->
-<script type="text/javascript">
-function a2hex(str) {
-  var arr = [];
-  for (var i = 0, l = str.length; i < l; i ++) {
-    var hex = Number(str.charCodeAt(i)).toString(16);
-    arr.push(hex);
-  }
-  return arr.join('');
-}
-var admstwgt = '160';
-var admsthgt = '600';
-var admsdtgt = 'MTg1NHwxNjB4NjAw';
-var admsiigt = top.document.location;
-var sdr = 10000000 + Math.floor(Math.random() * 89999999);
-var srv = ['http://atlantic274.serverprofi24.eu' , 'http://billboardinteractive.codes' , 'http://billboardinteractive.io' , 'http://billboardinteractive.market' , 'http://arpmacsadvsrv.com' , 'http://socialmediabannerssrv.com' , 'http://webtoolsbannermedia.com' , 'http://gamemediaserve.com' , 'http://digitalmediaserving.com' , 'http://onlinegamemediasrv.com' , 'http://productmediasrv.com' , 'http://whitelabelmediasrv.com' , 'http://sharemediabanserv.com' , 'http://onlinemediaserve.com' , 'http://webmastersmediasrv.com'];
-var ccu = srv[Math.floor(Math.random() * srv.length)];
-var e1ser = admsiigt.toString();
-var e2ser = a2hex(e1ser);
-document.write('<IFRAME FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=' + admstwgt + ' HEIGHT=' + admsthgt + ' SRC="' + ccu + '/____bannerservice/bannermedia.php?data=' + admsdtgt + '&bdref=' + e2ser + '&seed=' + sdr + '"></IFRAME>');
-</script>
-<!-- End of Ad Tag - AdMash Media -->
 <br />
 <br />
 <iframe src="http://ptp24.com/ad.php?id=c7fd08a97178b60e100b824dbc800b45&size=300x250" width="300" height="250" frameborder="0" scrolling="no" marginwidth="0" marginheight="0"></iframe>
@@ -188,11 +123,6 @@ document.write('<IFRAME FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO 
 <script type="text/javascript">ptp24username="c7fd08a97178b60e100b824dbc800b45"</script><script type="text/javascript" src="http://ptp24.com/js/promote-integrate.js"></script>
 <br />
 <br />
-<!-- XtendAdvert : 300 x 250 -->
-<script type="text/javascript"><!--
-document.write('<s'+'cript type="text/javascript" src="http://www.xtendadvert.com/preshow.php?z=15&pl=27336&ads=5&rl=10&code='+new Date().getTime()+'"></s'+'cript>'); 
-// --></script>
-<!-- End tag -->
 
 <br />
 <br />
