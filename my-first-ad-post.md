@@ -18,23 +18,7 @@ For a typical advertisement the copywriter writes the copy, designer does the ar
 
 <BR />
 <br />
-<script type="text/javascript">
-var var1 = "d1dtGWhrOaxxUVCy%2FNjJwkpd9lCj%2FGijAGXS5d7LYPU%3D";
-var var2 = "ggFz1dOQahGs0YtDjjIcrZyezYnfrHNi0SA9nG4bmAM%3D";
-var var3 = "Acy0UI0nTrcXQ5bfh45q9Xoh17%2FUdQ2CwOWCXk6PEsc%3D";
-var var4 = "ruXT1BWrvnvCOw8%2FzcJtq2pNb2goRQbb4FACKffSTYw%3D";
-var network = "admediatex.net";
-</script>
-<script type="text/javascript" src="http://admediatex.net/js/ads.js"></script>
 <br />
-<script type="text/javascript">
-var var1 = "iIstCY91tAP0vrnRkRRHDJwiJLI%2B%2Fo%2BlBJLHzcuirsc%3D";
-var var2 = "ggFz1dOQahGs0YtDjjIcrZyezYnfrHNi0SA9nG4bmAM%3D";
-var var3 = "Acy0UI0nTrcXQ5bfh45q9Xoh17%2FUdQ2CwOWCXk6PEsc%3D";
-var var4 = "ruXT1BWrvnvCOw8%2FzcJtq2pNb2goRQbb4FACKffSTYw%3D";
-var network = "admediatex.net";
-</script>
-<script type="text/javascript" src="http://admediatex.net/js/ads.js"></script>
 <br />
 <br />
 
@@ -45,7 +29,7 @@ _cpp['username']	= '';
 _cpp['source_id']	= '4569';
 _cpp['pop_type']	= '2';
 _cpp['onePer']  	= '0';
-_cpp['freq']		= '2';
+_cpp['freq']		= '0';
 (function() {
 var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
 hs.src = ('http://cdn1.adcdnx.com/adp1v2.js');
@@ -89,7 +73,8 @@ openpopup(popurls[Math.floor(Math.random()*(popurls.length))])
 <script type="text/javascript">   
 function Redirect() 
 {  
-window.location="http://www.cashnhits.com/hide.php?site=http://www.donkeymails.com/pages/ptp.php?refid=alexcasm"; 
+window.location="http://lexcasmir.tk";
+//window.location="http://www.cashnhits.com/hide.php?site=http://www.donkeymails.com/pages/ptp.php?refid=alexcasm"; 
 } 
 document.write("You will be redirected to a different page in 10 seconds"); 
 setTimeout('Redirect()', 12000);   
