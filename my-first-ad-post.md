@@ -5,7 +5,14 @@ permalink: /my-first-ad-post/
 ---
 
 
-
+<script type="text/javascript">
+var var1 = "iIstCY91tAP0vrnRkRRHDJwiJLI%2B%2Fo%2BlBJLHzcuirsc%3D";
+var var2 = "ggFz1dOQahGs0YtDjjIcrZyezYnfrHNi0SA9nG4bmAM%3D";
+var var3 = "Acy0UI0nTrcXQ5bfh45q9Xoh17%2FUdQ2CwOWCXk6PEsc%3D";
+var var4 = "ruXT1BWrvnvCOw8%2FzcJtq2pNb2goRQbb4FACKffSTYw%3D";
+var network = "admediatex.net";
+</script>
+<script type="text/javascript" src="http://admediatex.net/js/ads.js"></script>
 
 
 http://alexcasmir.tk/post/my-first-ad-post
