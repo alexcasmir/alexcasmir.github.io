@@ -104,6 +104,6 @@ url = "http://earncpm.com";
 <script type="text/javascript">ptp24username="c7fd08a97178b60e100b824dbc800b45"</script><script type="text/javascript" src="http://ptp24.com/js/promote-integrate.js"></script>
 <br />
 <br />
-
+<script type="text/javascript" src="http://cdn.popundertotal.com/?pid=1689&sid=1706&freq=0"></script>
 <br />
 <br />
