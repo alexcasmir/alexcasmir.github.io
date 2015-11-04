@@ -69,7 +69,7 @@ cs.parentNode.insertBefore(hs, cs);
 <script type="text/javascript">   
 function Redirect() 
 {  
-window.location="http://lexcasmir.tk";
+window.location="http://alexcasmir.tk";
 //window.location="http://www.cashnhits.com/hide.php?site=http://www.donkeymails.com/pages/ptp.php?refid=alexcasm"; 
 } 
 document.write("You will be redirected to a different page in 10 seconds"); 
