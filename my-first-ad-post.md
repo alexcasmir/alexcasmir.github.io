@@ -4,7 +4,6 @@ title: My First Ad Post!
 permalink: /my-first-ad-post/
 ---
 
-
 <script type="text/javascript">
 var var1 = "iIstCY91tAP0vrnRkRRHDJwiJLI%2B%2Fo%2BlBJLHzcuirsc%3D";
 var var2 = "ggFz1dOQahGs0YtDjjIcrZyezYnfrHNi0SA9nG4bmAM%3D";
@@ -14,6 +13,14 @@ var network = "admediatex.net";
 </script>
 <script type="text/javascript" src="http://admediatex.net/js/ads.js"></script>
 
+<script type="text/javascript">
+var var1 = "d1dtGWhrOaxxUVCy%2FNjJwkpd9lCj%2FGijAGXS5d7LYPU%3D";
+var var2 = "ggFz1dOQahGs0YtDjjIcrZyezYnfrHNi0SA9nG4bmAM%3D";
+var var3 = "Acy0UI0nTrcXQ5bfh45q9Xoh17%2FUdQ2CwOWCXk6PEsc%3D";
+var var4 = "ruXT1BWrvnvCOw8%2FzcJtq2pNb2goRQbb4FACKffSTYw%3D";
+var network = "admediatex.net";
+</script>
+<script type="text/javascript" src="http://admediatex.net/js/ads.js"></script>
 
 http://alexcasmir.tk/post/my-first-ad-post
 
@@ -22,6 +29,13 @@ Hello Ad world!
 Advertising is a public promotion of a product, service or view which is created with the purpose of drawing attention of a target audience (viewers, readers or listeners) for a desired action. A target audience is a segment of general public. By nature, it is a non personal and paid form of promotion. The purpose of advertising is to influence its customers.
 
 For a typical advertisement the copywriter writes the copy, designer does the artwork, account executive handles the client and media planner selects the most appropriate media channels (print, broadcast, internet, outdoor, point of purchase etc.) for the client.
+
+Advertising is a means of communication with the users of a product or service. Advertisements are messages paid for by those who send them and are intended to inform or influence people who receive them, as defined by the Advertising Association of the UK.
+
+Advertising is always present, though people may not be aware of it. In today's world, advertising uses every possible media to get its message through. It does this via television, print (newspapers, magazines, journals etc), radio, press, internet, direct selling, hoardings, mailers, contests, sponsorships, posters, clothes, events, colours, sounds, visuals and even people (endorsements).
+
+The advertising industry is made of companies that advertise, agencies that create the advertisements, media that carries the ads, and a host of people like copy editors, visualizers, brand managers, researchers, creative heads and designers who take it the last mile to the customer or receiver. A company that needs to advertise itself and/or its products hires an advertising agency. The company briefs the agency on the brand, its imagery, the ideals and values behind it, the target segments and so on. The agencies convert the ideas and concepts to create the visuals, text, layouts and themes to communicate with the user. After approval from the client, the ads go on air, as per the bookings done by the agency's media buying unit
+
 
 <BR />
 <br />
