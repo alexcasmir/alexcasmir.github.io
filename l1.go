@@ -1,0 +1,1 @@
+while true; do pkill midori ; sleep 5; rm ~/nohup.out ; nohup trickle -d 60 -u 60 midori http://22hits.com/exchange.php?key=23329d6db1f36d150daef0870122a69c2d6c075fd6552d2188f8fcfa7b158ac5 ; sleep 1800; done
