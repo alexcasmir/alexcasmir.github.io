@@ -9,14 +9,7 @@ external-url:
 categories: [tutorials]
 ---
 
-<!--
-<script type="text/javascript"><!--
-zone = "76";
-pl = "12699";
-url = "http://cpm.edomz.com";
-//--><!--</script>
-<script type="text/javascript" src="http://cpm.edomz.com/show.js"></script>
--->
+
 
 #### Java basics: a tutorial for beginners
 
